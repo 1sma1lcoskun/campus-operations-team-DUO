@@ -4,7 +4,7 @@
 
 - Project Name: Campus Operations - Ring Transit Optimization
 - Team Name: Team DUO
-- Date: 18 Ekim 2026]
+- Date: 18 Ekim 2026
 - Version: 1.0
 
 ## 2. Project Overview
