@@ -110,4 +110,4 @@ We confirm that the selected development approach has been discussed and agreed 
 | Team Member | Agreement |
 |---|---|
 | Başar Sayılgan | Agreed |
-| İsmail Coşkun | Agreed |
+| İsmail Coşkun  | Agreed |
