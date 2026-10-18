@@ -2,7 +2,7 @@
 
 ## Team Members
 - Başar Sayılgan - [252416004]
-- İsmail Coşkun - [252416020]
+- İsmail Coşkun  - [252416020]
   
 ## Project
 Campus Operations Semester Project
